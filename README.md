@@ -1,6 +1,6 @@
 # AxerBot
 
-[![CodeFactor](https://www.codefactor.io/repository/github/axerbot/axer-bot/badge/main)](https://www.codefactor.io/repository/github/axerbot/axer-bot/overview/main) [![GitHub license](https://img.shields.io/github/license/AxerBot/axer-bot?color=blue)](https://github.com/AxerBot/axer-bot/blob/main/LICENSE) ![Lines of code](https://img.shields.io/tokei/lines/github/axerbot/axer-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/axerbot/axer-bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/hiviexd/axerbot/badge/main)](https://www.codefactor.io/repository/github/hiviexd/axerbot/overview/main) [![GitHub license](https://img.shields.io/github/license/hiviexd/axerbot?color=blue)](https://github.com/hiviexd/AxerBot/blob/main/LICENSE) ![Lines of code](https://img.shields.io/tokei/lines/github/hiviexd/axerbot) ![GitHub last commit](https://img.shields.io/github/last-commit/hiviexd/axerbot)
 
 A general-purpose and powerful Discord bot with osu! features related to mapping & modding
 
